@@ -1,0 +1,11 @@
+{
+  "node": true,
+  "funcscope": true,
+  "maxparams": 5,
+  "varstmt": true,
+  "evil": true,
+  "esversion": 6,
+  "undef": true,
+  "unused": true,
+  "eqeqeq" : true
+}
